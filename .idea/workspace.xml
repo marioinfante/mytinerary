@@ -43,20 +43,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Event.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Event.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Event.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="317">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Schedule.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Schedule.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Schedule.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -1702,8 +1706,8 @@
       <list>
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Date.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Event.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Schedule.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Event.java" />
       </list>
     </option>
   </component>
@@ -2201,17 +2205,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -2229,6 +2222,21 @@
             <element signature="e#272#273#0" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/marioinfante/mytinerary/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
           </folding>
         </state>
       </provider>
