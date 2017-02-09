@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_ca3034b600988147d197e5d8d8e3e48132434635\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_bf807ab3d25f302bb43555890b1c05425a327e50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_fa074b4dd1f8f0891012def2904ada5810c58104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_5a806cb59ff5f9b4c0f4118160219f4d094509de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20592ea81158bf1d4d25d9af83c50d3cfd9b249f">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3ae770fa52a41ca0e66e94b2b066318f69cd7f73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_a781252cb216d65e0705178e8730734d9cfaee39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_73370301d5281e06d3ae075e83a5a7957c55f878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_2e7249c0b5b89a8300249b51b680808e5aab71fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_d774df334f2d62482bdf8a9098a3ac0001bcb338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_62b19551da4ac10f9c0cd4f6364363261e3cb4ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_aa98691c826a3a148a18f9d0011504ca3d05a69e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abef8e96096e3daa988796fefb3d6d33e0e41ca8">
+        <dex dex="C:\Users\Simon\Documents\GitHub\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_22a27ef550747c2f40cb51ec02908e247f564f5b\classes.dex" />
+    </item>
+
+</items>
