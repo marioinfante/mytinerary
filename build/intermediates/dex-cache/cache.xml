@@ -3,39 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Omar\Desktop\MyTin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Senghai\Desktop\github_repos\mytinerary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="445d20ac25d6aafe95ffa12d7fa122f2b76ac38e">
+        <dex dex="C:\Users\Senghai\Desktop\github_repos\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2da74695eab766a23065c097f691bade459a59a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Senghai\Desktop\github_repos\mytinerary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\Omar\Desktop\MyTin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_72c309a843e2e016ba414ff8f6404a0a4610e1af\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Omar\Desktop\MyTin working copy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2ef6d1c7e54215967e1106e796df87daeb65585e">
-        <dex dex="C:\Users\Omar\Desktop\MyTin working copy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6b5ac566cd20ca05c5e98900c03fe011a8e0e106\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Omar\Desktop\MyTin working copy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\Omar\Desktop\MyTin working copy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_452053e93d1acfc853ea938d324ec0bd8ae923b0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Omar\Desktop\MyTin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="25c250e6d7d667ad3c7943c0af8bd19de677e3c9">
-        <dex dex="C:\Users\Omar\Desktop\MyTin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5f4540932bec62da649796ef980d89a3380879fd\classes.dex" />
+        <dex dex="C:\Users\Senghai\Desktop\github_repos\mytinerary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ba2c266af89670367955a82beff51c547e663055\classes.dex" />
     </item>
 
 </items>
